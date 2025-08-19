@@ -20,7 +20,7 @@ It works in two main steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/parking-space-counter-opencv.git
+git clone https://github.com/faisal-ajao/parking-space-counter-opencv.git
 cd parking-space-counter-opencv
 ```
 
